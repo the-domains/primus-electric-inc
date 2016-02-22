@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[primus electric inc.]]></title>
+        <description><![CDATA[primus electric inc.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 03:23:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[welcome to our new website]]></title>
+            <description><![CDATA[<article><h1>welcome to our new website</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4477e474-fb3d-4c9c-aa7d-260b3a43f471.jpg"></article>]]></description>
+            <link>undefined6c56c7ec-4c98-4c73-9711-036dd0cdb77b/index.html</link>
+            <guid isPermaLink="false">6c56c7ec-4c98-4c73-9711-036dd0cdb77b</guid>
+            <pubDate>Mon, 22 Feb 2016 03:22:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
