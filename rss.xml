@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[primus electric inc.]]></title>
         <description><![CDATA[primus electric inc.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/primus-electric-inc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 00:26:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 00:26:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/primus-electric-inc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2004da2b-e737-4875-aa2b-5c995936ba61.JPG">]]></description>
+            <link>https://thegrid.ai/primus-electric-inc/64e523c9-fc01-4c22-b82b-18ae3f1b2244/index.html</link>
+            <guid isPermaLink="false">64e523c9-fc01-4c22-b82b-18ae3f1b2244</guid>
+            <pubDate>Thu, 25 Feb 2016 00:26:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f32c5985-4ee0-4549-88a7-c568eac0ef8a.jpg">]]></description>
-            <link>undefinede5464c1c-ef53-4a50-9ce7-77c54b024537/index.html</link>
+            <link>https://thegrid.ai/primus-electric-inc/e5464c1c-ef53-4a50-9ce7-77c54b024537/index.html</link>
             <guid isPermaLink="false">e5464c1c-ef53-4a50-9ce7-77c54b024537</guid>
             <pubDate>Thu, 25 Feb 2016 00:26:25 GMT</pubDate>
         </item>
