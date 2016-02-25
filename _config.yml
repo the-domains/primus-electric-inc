@@ -1,6 +1,6 @@
 name: primus electric inc.
 favicon: null
-layout_spectrum: 0.8263766260351986
+layout_spectrum: 0.49185
 typography_spectrum: 0.36423164838925004
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.24697659141384065
   saturation: 0.9747921477537602
   rhythmicContrast: 0.17302523693069816
